@@ -1,0 +1,14 @@
+{
+  "name": "election-bot",
+  "version": "1.0.0",
+  "description": "Election tracker bot",
+  "main": "./src/index.js",
+  "repository": "https://github.com/Sxmurai/election-bot",
+  "author": "Sxmurai (aesthetical#2545)",
+  "license": "WTFPL",
+  "private": false,
+  "dependencies": {
+    "eris": "^0.14.0",
+    "node-fetch": "^2.6.1"
+  }
+}
