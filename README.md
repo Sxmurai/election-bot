@@ -1,5 +1,13 @@
 # election-bot
 
+---
+
+# important
+
+so biden won lol, but i might reuse some of this shit for the next electon in 3 years (its 2021 right now)
+
+---
+
 Tracks the current election data for the 2020 election.
 
 ---
